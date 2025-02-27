@@ -1,5 +1,5 @@
-# GuardChair
-Projeto de Práticas IOT com os brabos 😎
+# Guardian Chair
+Projeto no âmbito da engenharia biomédica que visa construir uma cadeira sensoreada para promover aumento de informações sobre o estado de pacientes em processos de triagens ou cuidados domésticos que melhore a tomada de decisões.
 
 Para compartilhar códigos mais rápido:
 https://missopad.com/pippo
